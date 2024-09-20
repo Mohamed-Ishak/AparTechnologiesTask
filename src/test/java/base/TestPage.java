@@ -37,19 +37,5 @@ public class TestPage {
             driver = null;
         }
     }
-    
-    By subcriptionType = By.cssSelector("#name-classic");
-    By price = By.cssSelector("#currency-classic b");
-    By countryDropdownList = By.xpath("//div[@class='country-current']");
-    public By egyptCountryName = By.xpath("//span[@id='eg-contry-lable']");
 
-    // Method to get the text of a web element
-    public String getText(By locator) {
-        return driver.findElement(locator).getText();
-    }
-
-    // Method to select country
-    public void selectCountry() {
-        driver.findElement(countryDropdownList).click();
-    }
 }
