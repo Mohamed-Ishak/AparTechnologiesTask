@@ -18,3 +18,7 @@ Steps To Execute The Scenario in 3 ways
 
 You will find in each Step I have added an assertion on the subscription type then I assert on the price for each subscription type in the three countries
 You can add any other country and then run the code so it will be executed successfully.
+
+
+
+![image](https://github.com/user-attachments/assets/03d8c2b5-4665-4425-8e13-6b615047492c)
