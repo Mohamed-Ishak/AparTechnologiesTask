@@ -9,6 +9,7 @@ I have created this Task using Selenium TestNG and Cucumber based on  Java Progr
 I Write it using BDD style by adding a feature File for non-tech persons using a Scenario outline to change the Test data for each country in the 3 Subscription Types (Lite - Classic  - Premium)
 
 Steps To Execute The Scenario in 3 ways 
+
 1 - You can run it from the TestRunner Class   
 
 2-  From the testng.xml file 
